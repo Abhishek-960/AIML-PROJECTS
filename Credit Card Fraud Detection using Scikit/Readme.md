@@ -18,4 +18,4 @@ This mini-project applies machine learning to detect fraudulent transactions usi
    ```bash
    pip install -r requirements.txt
 
-  
+## Results ![Screenshot (32)](https://github.com/user-attachments/assets/b422e706-606a-41fc-bd86-9feaef070bec)
