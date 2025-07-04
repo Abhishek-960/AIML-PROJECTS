@@ -1,0 +1,2 @@
+Local Resume can be stored here and matched against the keywords
+Resumes tested in demo ( 1. Abhishek Tyagi , 2. Manu) 
