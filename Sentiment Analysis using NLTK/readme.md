@@ -18,6 +18,7 @@ neu: proportion of neutral sentiment
 compound: overall sentiment from –1 (most negative) to +1 (most positive)
 
 ## Results
+![abhi 5](https://github.com/user-attachments/assets/a898b752-425f-48b4-a07c-5d3f81d0e5ab)
 
 
 ## 📦 Installation Instructions
