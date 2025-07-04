@@ -26,6 +26,8 @@ This is pure collaborative filtering—but item-based instead of user-based.
 ---
 
 ## Results
+![abhi 4](https://github.com/user-attachments/assets/ff37def6-1b9e-4f99-9be4-3767d95d679c)
+
 
 
 
