@@ -33,7 +33,10 @@ For each resume, the following are printed:
 - Matched skills (which keywords were found)
 - Missing skills (which keywords were not found)
 
----
+--
+## Results :
+![abhishek pro 3](https://github.com/user-attachments/assets/01044590-716f-4192-a3ae-1763ff943b38)
+
 
 ## 🔧 Setup Instructions
 
@@ -48,3 +51,5 @@ Then install the required packages:
 bash
 pip install -r requirements.txt
 
+
+##
