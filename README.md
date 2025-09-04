@@ -13,13 +13,4 @@ The goal of this repository is to demonstrate hands-on implementation of AI/ML c
 - scikit-learn
 - pandas, numpy, matplotlib
 - TensorFlow, Keras
-- NLTK, spaCy
-- Jupyter Notebook / Google Colab
 
----
-
-## 📌 How to Use
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/yourusername/ai-ml-mini-projects.git
